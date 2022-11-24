@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jay
+- 👋 Hi, I’m Jay
 
 <!---
 erjiale/erjiale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
