@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://erjiale.github.io/">Jay</a></h2>
-
+<p>🧐 A software engineer working on some side projects to keep learning everyday</p>
 <!--
 **erjiale/erjiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
