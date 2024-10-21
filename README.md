@@ -1,5 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://erjiale.github.io/">Jay</a></h2>
 <p>🧐 A software engineer working on some side projects to keep learning everyday</p>
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 in LinkedIn!! [<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" style="height: 16px"> ](https://www.linkedin.com/in/jiale-qiu/)
+
 <!--
 **erjiale/erjiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
