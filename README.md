@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm Jay👨🏽‍💻</h1>
+<h2>Hey 👋, I'm <a href="https://erjiale.github.io/">Jay</a></h2>
 
 <!--
 **erjiale/erjiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
